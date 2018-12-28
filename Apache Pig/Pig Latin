@@ -1,0 +1,26 @@
+Things you can do to a relation:
+- LOAD, STORE, DUMP
+- FILTER DISTINCT, FOREACH/GENREATE, MAPREDUCE, STREAM, SAMPLE
+- JOIN, COGROUP, GROUP, CROSS, CUBE
+- ORDER, RANK, LIMIT
+- UNION, SPLIT
+
+Diagnostics:
+- DESCRIBE
+- EXPLAIN
+- ILLUSTRATE
+
+UDF:
+- REGISTER
+- DEFINE
+- IMPORT
+
+Other functions and loaders:
+- AVG, CONCAT, COUNT, MAX, MIN, SIZE, SUM
+- PigStorage
+- TextLoader
+- JsonLoader
+- AvroStorage
+- ParquetLoader
+- OrcStorage
+- HBaseStorage
